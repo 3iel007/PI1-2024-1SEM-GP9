@@ -1,0 +1,107 @@
+
+      CENTRO UNIVERSITÁRIO SENAC
+ENRICO F
+GABRIEL B
+GABRIEL M
+LORENZZO R
+VINICIUS J
+
+
+      
+                                                                                     
+      
+      
+PROJETO INTEGRADOR PENSAMENTO COMPUTACIONAL
+
+      
+      
+      FACILITANDO A NAVEGACAO NO CAMPUS: MAPA DO CAMPUS
+      
+      
+      
+      
+
+      São Paulo
+      2024
+
+ENRICO F
+GABRIEL B
+GABRIEL M
+LORENZZO R
+VINICIUS J
+
+
+
+      FACILITANDO A NAVEGACAO NO CAMPUS: MAPA DO CAMPUS
+      
+      
+Trabalho de projeto integrador, da disciplina de: Pensamento Computacional apresentado ao Centro Universitário Senac, como exigência parcial para média final semestral.
+      
+      
+      
+      
+      
+      
+
+      São Paulo
+      2023
+
+
+
+RESUMO
+
+Imagine chegar ao campus no primeiro dia de aula e se perder entre os prédios e salas de aula desconhecidos. Esse foi o ponto inicial de nosso projeto, Para resolver esse problema, estamos desenvolvendo um aplicativo de mapeamento do campus. Nosso objetivo é fornecer uma ferramenta simples e eficaz para ajudar os alunos a se localizarem facilmente desde o início. Esperamos não apenas simplificar a navegação, mas também melhorar a experiência estudantil como um todo.
+
+Palavras- chave: 1. Model. 2. Desktop publishing. 3. Reader will. 4. Many desktop. 5. Content.
+
+
+
+SUMÁRIO
+
+SUMÁRIO	4
+1.	DIAGRAMA SÓ IR ADICIONANDO	5
+2.	OUTRA PÁGINA SÓ IR ADICIONANDO QUE VAI ESTRUTURANDO	9
+3.	PÁGINA SÓ IR COPIANDO E ADICIONANDO	10
+REFERÊNCIAS BIBLIOGRÁFICAS	11
+
+
+
+
+Visão Geral
+Antes de Desenvolver o projeto, precisamos colocar alguns pontos em mente antes de proceguir:
+Principais Funcionalidades:
+1. Mapa Interativo: Um mapa detalhado do campus, permitindo aos usuários visualizar prédios, salas de aula, áreas de convivência e outras instalações importantes.
+2. **Navegação Passo a Passo:** Recursos de navegação que fornecem direções passo a passo para os destinos desejados no campus.
+3. **Busca de Locais:** Uma função de busca que permite aos usuários encontrar prédios, salas de aula e outras localizações com facilidade.
+4. **Informações Adicionais:** Informações úteis sobre cada localização, como horários de funcionamento, informações de contato e eventos especiais.
+5. **Personalização:** Capacidade de personalizar o mapa de acordo com as preferências individuais dos usuários, como adicionar marcadores personalizados.
+
+
+Próximos Passos:
+1. Desenvolvimento inicial do aplicativo, incluindo a criação e integração do mapa do campus.
+2. Testes piloto com um grupo de alunos para avaliar a usabilidade e identificar possíveis melhorias.
+3. Implementação de feedback dos usuários e aprimoramento contínuo do aplicativo.
+4. Lançamento oficial do aplicativo para toda a comunidade estudantil.
+
+
+
+O projeto e sua contribuição para a comunidade
+Benefícios Esperados:
+- Facilitar a orientação dos alunos no campus desde o primeiro dia de aula.
+- Reduzir o tempo gasto em busca de prédios e salas de aula.
+- Melhorar a experiência geral dos alunos, proporcionando uma navegação mais eficiente e livre de estresse.
+
+
+Impacto Esperado:
+- Maior satisfação dos alunos com a experiência de navegação no campus.
+- Melhoria na eficiência e pontualidade dos alunos em suas atividades acadêmicas.
+- Contribuição para um ambiente universitário mais inclusivo e acolhedor.
+
+
+
+Escopo do projeto
+
+
+Referências Bibliográficas
+
+
